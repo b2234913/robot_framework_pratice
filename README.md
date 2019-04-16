@@ -2,7 +2,7 @@
 ## Download the files that we need
 ```
 git clone https://github.com/b2234913/robot_framework_pratice.git
-cd robot_for_practice
+cd robot_framework_pratice
 ```
 
 ## Prepare robot environment with python 3
